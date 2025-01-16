@@ -10,10 +10,24 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
-2. Start the app
+2. Run prebuild
 
    ```bash
-    npx expo start
+    npx expo prebuild
+   ```
+
+3. Start the app
+
+   for android
+
+   ```bash
+   npm run android
+   ```
+
+   for ios
+
+   ```bash
+   npm run ios
    ```
 
 In the output, you'll find options to open the app in a
