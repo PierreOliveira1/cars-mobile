@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "cars",
-    "slug": "cars",
+    "name": "VehicleX",
+    "slug": "vehiclex",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./src/assets/images/icon.png",
